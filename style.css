@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-image: linear-gradient(#000000, #13C5BA);
+    color: #F8F0F0;
+    display: flex;
+    justify-content: space-around;
+    height: 15%;
+}
+
+.cabecalho-imagem {
+    width: 25%;
+
+}
+
+.cabecalho-lista-item {
+    margin: 3%;
+}
+
+.cabecalho-img{
+    width: 25%;
+    
+}
+
+.texto{
+    background-image: linear-gradient(#13C5BA, #CCEBE9);
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.section-financiamento{
+    width: 45%;   
+}
+ 
+.tituloJT{
+    padding: 10px 0;
+}
+
+.texto1 {
+    color: white;
+    display: block;
+    
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.Nossos-ctt {
+    background: #CCEBE9
+}
+
+.contatos{
+    color: #2F7467
+}
+
+.whatsapp{
+    width: 30px;
+}
+
+.páginas{
+    color: #2F7467;
+}
+
+.insta {
+    width: 30px;
+}
+
+.face {
+    width: 30px;
+}
+
+.enderecos-d {
+    color: #2F7467;
+}
+
+.todos {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+
