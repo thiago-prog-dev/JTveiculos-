@@ -2,5 +2,5 @@
 
 Meu primeiro projeto utlilizando `HTML e CSS`
 
-### Contato:
+### Contato📧
 thibeca1998@gmail.com 
